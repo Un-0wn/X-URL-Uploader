@@ -6,5 +6,5 @@ def hello_world():
     return 'd0st'
 
 
-if __name__ == "__main__":
+if __name__ == "__Bot__":
     app.run()
