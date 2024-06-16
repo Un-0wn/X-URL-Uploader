@@ -1,6 +1,6 @@
 import os
 import logging
-from . import client
+from Bot import client
 from aiohttp import ClientSession
 from pyrogram import idle
 
