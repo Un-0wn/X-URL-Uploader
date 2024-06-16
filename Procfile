@@ -1,1 +1,0 @@
-FROM xgorn/xurluploader:latest
