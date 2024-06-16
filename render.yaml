@@ -19,7 +19,8 @@ services:
       - key: BOT_USERNAME
         sync: false
       - key: WEBHOOK
-        sync: false
+      - key: PORT
+        value: 8443
       - key: DEF_THUMB_NAIL_VID_S
         sync: false
       - key: UPDATES_CHANNEL
